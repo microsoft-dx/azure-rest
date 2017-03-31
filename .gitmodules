@@ -2,3 +2,7 @@
 	path = src/java-spring-todo-api
 	url = https://github.com/microsoft-dx/java-spring-todo-api
 	ignore = dirty
+[submodule "src/angular-todo"]
+	path = src/angular-todo
+	url = https://github.com/microsoft-dx/angular-todo
+	ignore = dirty
