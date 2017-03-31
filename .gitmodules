@@ -1,0 +1,3 @@
+[submodule "src/java-spring-todo-api"]
+	path = src/java-spring-todo-api
+	url = https://github.com/microsoft-dx/java-spring-todo-api
