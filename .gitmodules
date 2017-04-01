@@ -6,3 +6,6 @@
 	path = src/angular-todo
 	url = https://github.com/microsoft-dx/angular-todo
 	ignore = dirty
+[submodule "src/aspnet-core-todo-api"]
+	path = src/aspnet-core-todo-api
+	url = https://github.com/microsoft-dx/aspnet-core-todo-api
